@@ -270,7 +270,7 @@ export const workData = [
     companyImg: "/image.png",
     roles: [
       {
-        designation: "Developer (Intern/Contract)",
+        designation: "IT Pre - Sales Analyst",
         duration: "1 July 2024 – 1 July 2025",
         description: (
           <>
