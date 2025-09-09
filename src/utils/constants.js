@@ -345,41 +345,23 @@ export const projectsData = [
 
 export const socialMediaLinks = [
   {
-    href: "https://github.com/vaheedsk36",
+    href: "https://github.com/mihirVakhariya",
     icon: FaGithub,
     backgroundColor: "gray.700",
     hoverColor: "gray.600",
   },
   {
-    href: "https://www.instagram.com/codersk36/",
+    href: "https://www.instagram.com/vakhariya_mihir?igsh=MTB3MWh5cGYxYWk2bA==",
     icon: FaInstagram,
     backgroundColor: "social.instagram",
     hoverColor: "social.instagramHover",
   },
   {
-    href: "https://www.linkedin.com/in/sk36/",
+    href: "https://www.linkedin.com/in/mihir-vakhariya-/",
     icon: FaLinkedin,
     backgroundColor: "social.linkedin",
     hoverColor: "social.linkedinHover",
   },
-  {
-    href: "https://twitter.com/codersk36",
-    icon: FaXTwitter,
-    backgroundColor: "gray.700",
-    hoverColor: "gray.600",
-  },
-  {
-    href: "https://codersk36.hashnode.dev/",
-    icon: FaHashnode,
-    backgroundColor: "social.hashnode",
-    hoverColor: "social.hashnodeHover",
-  },
-  {
-    href: "https://medium.com/@vaheedsk36",
-    icon: FaMediumM,
-    backgroundColor: "gray.700",
-    hoverColor: "gray.600",
-  }
 ];
 
 export const query = `
